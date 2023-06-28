@@ -1,0 +1,19 @@
+{
+  "name": "clase-11-backend",
+  "version": "1.0.0",
+  "description": "Clase 11 del curso de programación backend sobre Aplicación chat con websocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinAlvarez98/Clase11BackEnd.git"
+  },
+  "author": "Valentín Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinAlvarez98/Clase11BackEnd/issues"
+  },
+  "homepage": "https://github.com/ValentinAlvarez98/Clase11BackEnd#readme"
+}
