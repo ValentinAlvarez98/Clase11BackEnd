@@ -29,9 +29,6 @@ swal.fire({
       };
 });
 
-// Una vez que un usuario se autenticó, se le envia al resto de los usuarios conectados un mensaje de que se ha conectado un nuevo usuario.
-
-
 chatBox.addEventListener('keyup', e => {
 
       if (e.key === 'Enter') {
